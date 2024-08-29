@@ -3,6 +3,10 @@ Treinamento Banco de dados Postgres
 
 # Projeto para treinamento em banco de dados PostgreSQL.
 
+
+https://github.com/user-attachments/assets/c4b8478a-86ad-40dd-8a14-738390eedc68
+
+
 ## Desafio 1 - importar dados de planilha Excel
 Dada uma planilha em Excel, inserir os dados da planilha num banco de dados PostgreSQL.
 
